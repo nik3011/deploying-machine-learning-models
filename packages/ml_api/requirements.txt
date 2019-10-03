@@ -11,3 +11,6 @@ regression-model==1.0.0
 
 # Deployment
 gunicorn==19.9.0
+
+# testing requirements
+pytest==5.2.0
